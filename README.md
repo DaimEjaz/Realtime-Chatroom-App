@@ -1,2 +1,2 @@
 # Realtime-Chatroom-App
-A full stack Realtime chat app where users can join custom rooms to message each other. 
+A full stack Realtime chat app where users can join custom rooms to message each other. A project under progress...
